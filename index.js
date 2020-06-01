@@ -19,7 +19,10 @@ class App extends Component {
               <th><h1 class="l" > contact us</h1> </th> </th>
          
        </table>
-       <img  class="fon" src="https://cdn.jsdelivr.net/gh/ivanpirat/react-g729fr@master/f2%20(2).jpg"/>
+       <img  class="fon" src="https://cdn.jsdelivr.net/gh/ivanpirat/react-g729fr@master/f2%20(2).jpg" 
+      
+       
+       />
        
       </div>
     );
